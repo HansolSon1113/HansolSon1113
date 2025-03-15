@@ -1,10 +1,10 @@
-<div>
+<div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hello%20World!&animation=twinkling)
   
 </div>
-<div>
-  
+<div align="center">
+
   [![Hansol's GitHub stats](https://github-readme-stats-wine-mu.vercel.app/api?username=HansolSon1113&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=Swift&logoColor=white"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white"/>
-  
+
 </div>
 
 <!--
